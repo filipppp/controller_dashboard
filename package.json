@@ -15,6 +15,7 @@
     "electron-rebuild": "^2.0.1"
   },
   "dependencies": {
+    "@serialport/parser-readline": "^9.0.7",
     "electron-unhandled": "^3.0.1",
     "jquery": "^3.4.1",
     "serialport": "^9.2.0",
